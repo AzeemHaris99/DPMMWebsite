@@ -1,0 +1,165 @@
+[26-Oct-2021 01:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/TestSijil.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/TestSijil.php on line 29
+[26-Oct-2021 01:50:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/mydpmmsc/public_html/Kelab/TestSijil.php on line 7
+[26-Oct-2021 01:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/TestSijil.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/TestSijil.php on line 19
+[26-Oct-2021 02:37:46 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/mydpmmsc/public_html/Kelab/registerMember.php on line 43
+[26-Oct-2021 02:37:58 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/mydpmmsc/public_html/Kelab/registerMember.php on line 43
+[26-Oct-2021 03:34:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 256
+[26-Oct-2021 03:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 256
+[26-Oct-2021 03:50:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 256
+[26-Oct-2021 03:50:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 256
+[26-Oct-2021 03:51:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 256
+[26-Oct-2021 03:57:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 03:58:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 256
+[26-Oct-2021 04:55:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 20
+[26-Oct-2021 04:55:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 20
+[26-Oct-2021 06:22:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 06:22:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 06:28:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 06:29:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 06:29:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 06:30:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 06:31:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 06:31:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 06:32:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 254
+[26-Oct-2021 06:34:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 254
+[26-Oct-2021 06:34:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 254
+[26-Oct-2021 06:42:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 254
+[26-Oct-2021 06:48:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 06:50:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 06:58:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/admin_page.php on line 149
+[26-Oct-2021 07:04:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 254
+[26-Oct-2021 07:57:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 254
+[26-Oct-2021 07:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 254
+[26-Oct-2021 07:57:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 254
+[26-Oct-2021 08:00:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 254
+[26-Oct-2021 08:01:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 254
+[26-Oct-2021 15:16:42 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 314
+[27-Oct-2021 00:57:59 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 293
+[27-Oct-2021 00:58:02 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 293
+[27-Oct-2021 00:58:03 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 293
+[27-Oct-2021 01:01:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:04:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:09:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:09:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:17:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:17:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:18:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:31:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:32:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mydpmmsc/public_html/Kelab/carian_status.php:280
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 280
+[27-Oct-2021 01:37:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mydpmmsc/public_html/Kelab/carian_status.php:280
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 280
+[27-Oct-2021 01:37:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mydpmmsc/public_html/Kelab/carian_status.php:280
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 280
+[27-Oct-2021 01:37:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mydpmmsc/public_html/Kelab/carian_status.php:280
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 280
+[27-Oct-2021 01:41:23 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 316
+[27-Oct-2021 01:41:25 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 316
+[27-Oct-2021 01:41:31 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 316
+[27-Oct-2021 01:41:54 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 321
+[27-Oct-2021 01:41:56 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 321
+[27-Oct-2021 01:42:21 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 322
+[27-Oct-2021 01:42:31 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 322
+[27-Oct-2021 01:43:07 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 322
+[27-Oct-2021 01:43:09 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 322
+[27-Oct-2021 01:43:10 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 322
+[27-Oct-2021 01:43:18 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 322
+[27-Oct-2021 01:43:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:43:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 289
+[27-Oct-2021 01:58:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 291
+[27-Oct-2021 01:58:53 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 316
+[27-Oct-2021 01:58:57 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 316
+[27-Oct-2021 02:15:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 291
+[27-Oct-2021 02:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 291
+[27-Oct-2021 02:15:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 291
+[27-Oct-2021 02:15:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 291
+[27-Oct-2021 02:15:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/mydpmmsc/public_html/Kelab/carian_status.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/mydpmmsc/public_html/Kelab/carian_status.php on line 291
+[24-Nov-2021 04:41:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mydpmmsc/public_html/Kelab/sijil.php on line 509
+[24-Nov-2021 04:42:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mydpmmsc/public_html/Kelab/sijil.php on line 509
+[24-Nov-2021 04:42:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mydpmmsc/public_html/Kelab/sijil.php on line 509
+[24-Nov-2021 04:44:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mydpmmsc/public_html/Kelab/sijil.php on line 509
+[24-Nov-2021 04:46:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mydpmmsc/public_html/Kelab/sijil.php on line 508
+[24-Nov-2021 04:49:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mydpmmsc/public_html/Kelab/sijil.php on line 508
+[24-Nov-2021 04:57:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mydpmmsc/public_html/Kelab/sijil.php on line 508
+[24-Nov-2021 04:57:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mydpmmsc/public_html/Kelab/sijil.php on line 508
+[24-Nov-2021 04:57:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mydpmmsc/public_html/Kelab/sijil.php on line 508
+[24-Nov-2021 05:01:16 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/mydpmmsc/public_html/Kelab/sijil.php on line 374
+[24-Nov-2021 05:08:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/mydpmmsc/public_html/Kelab/sijil.php on line 374
